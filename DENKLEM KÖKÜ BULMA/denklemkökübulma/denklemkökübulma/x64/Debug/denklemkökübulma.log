@@ -1,0 +1,3 @@
+﻿  denklemkökübulma.cpp
+D:\C++ Çalışmalar\denklemkökübulma\denklemkökübulma\denklemkökübulma.cpp(17,18): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  denklemkökübulma.vcxproj -> D:\C++ Çalışmalar\denklemkökübulma\x64\Debug\denklemkökübulma.exe
