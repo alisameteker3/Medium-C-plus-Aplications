@@ -1,0 +1,4 @@
+﻿  hacimhesabiFonsy.cpp
+D:\C++ Çalışmalar\hacimhesabiFonsy\hacimhesabiFonsy\hacimhesabiFonsy.cpp(40,2): warning C4102: 'case1': etiket başvurusu kaldırıldı
+D:\C++ Çalışmalar\hacimhesabiFonsy\hacimhesabiFonsy\hacimhesabiFonsy.cpp(53): warning C4715: 'alan': tüm denetim yolları değer döndürmez
+  hacimhesabiFonsy.vcxproj -> D:\C++ Çalışmalar\hacimhesabiFonsy\x64\Debug\hacimhesabiFonsy.exe
